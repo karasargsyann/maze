@@ -60,3 +60,5 @@ ball = Ball()
 
 #пока все условия выполняются
 while not game_over:
+
+
